@@ -1,7 +1,6 @@
-Title: Topics
-Slug: topics
+Title: Categories
+Slug: categories
 Authors: James Gough
-Slug: topics
 Summary: Search by topic
 
 Browse every page of this site is available through one of these mutually exclusive master tags!
@@ -9,11 +8,11 @@ Browse every page of this site is available through one of these mutually exclus
 ## 💾 Data/Programming
 Anything to do with data, programming, or most likely both, is [here]({tag}data-programming)
 
-## 🔥 Hot Take
-Ideas, possibly bad and ill-considered [here]({tag}hot-take)
+## ☁ Ideas
+Ideas, possibly bad and ill-considered [here]({tag}ideas)
 
 ## 👪 Life
-The ups and downs [here]({tag}life)
+Anything personal [here]({tag}life)
 
 ## 📚 Book Review
 Books I think are interesting [here]({tag}book-review)
