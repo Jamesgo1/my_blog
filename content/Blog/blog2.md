@@ -1,5 +1,5 @@
 Title: Second Blog
-Tags: somestuff
+Tags: somestuff, data-programming
 Authors: James Gough
 Summary: This is my SECOND blog post - here's the summary.
 
