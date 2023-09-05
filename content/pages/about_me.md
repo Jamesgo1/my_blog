@@ -5,8 +5,12 @@ Summary: Intro About Me
 
 Hello, and thanks for visiting my website! 🎉🎉🎉
 
+![Image]({static}/images/fam1.jpg)
+
 I am a proud dad to two mad kids that I love more than anything. And my wife Olivia who is the best person I've ever 
 met.
+
+![Image]({static}/images/fam2.jpg)
 
 I currently work as a data engineer working at 
 [Companies House](https://www.gov.uk/government/organisations/companies-house). In terms of work, I love being creative and learning new things so programming turned out to be 
@@ -24,3 +28,5 @@ moving to a new place with family life and working from home. But I'm hoping to 
 forward. 
 
 If you've any feedback at all, please feel free to contact me at the social media links at the bottom of the site.
+
+![Image]({static}/images/fam3.jpg)
