@@ -34,7 +34,7 @@ DEFAULT_DATE = "fs"
 
 USE_FOLDER_AS_CATEGORY = True
 
-THEME = r"C:\Users\jgough\PycharmProjects\pelican-clean-blog"
+THEME = r"themes/pelican-clean-blog"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = Truecd
