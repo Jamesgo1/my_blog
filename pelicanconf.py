@@ -35,6 +35,6 @@ DEFAULT_DATE = "fs"
 USE_FOLDER_AS_CATEGORY = True
 
 THEME = r"themes/pelican-clean-blog"
-SLUGIFY_SOURCE = "basename"
+SLUGIFY_SOURCE = "title"
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = Truecd
