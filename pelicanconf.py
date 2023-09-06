@@ -28,7 +28,6 @@ SOCIAL = (
     ('twitter', "https://twitter.com/james_a_gough"),
 )
 
-
 DEFAULT_PAGINATION = 5
 DEFAULT_DATE = "fs"
 
@@ -38,3 +37,4 @@ THEME = r"themes/pelican-clean-blog"
 SLUGIFY_SOURCE = "title"
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = Truecd
+DELETE_OUTPUT_DIRECTORY = True
