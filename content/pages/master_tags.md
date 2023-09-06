@@ -1,5 +1,4 @@
-Title: Categories
-Slug: categories
+Title: Main Categories
 Authors: James Gough
 Summary: Search by topic
 
